@@ -1,0 +1,11 @@
+C:\Users\AORUS\Desktop\复习\Net.Event\bin\Debug\netcoreapp3.0\Net.Event.exe
+C:\Users\AORUS\Desktop\复习\Net.Event\bin\Debug\netcoreapp3.0\Net.Event.deps.json
+C:\Users\AORUS\Desktop\复习\Net.Event\bin\Debug\netcoreapp3.0\Net.Event.runtimeconfig.json
+C:\Users\AORUS\Desktop\复习\Net.Event\bin\Debug\netcoreapp3.0\Net.Event.runtimeconfig.dev.json
+C:\Users\AORUS\Desktop\复习\Net.Event\bin\Debug\netcoreapp3.0\Net.Event.dll
+C:\Users\AORUS\Desktop\复习\Net.Event\bin\Debug\netcoreapp3.0\Net.Event.pdb
+C:\Users\AORUS\Desktop\复习\Net.Event\obj\Debug\netcoreapp3.0\Net.Event.csprojAssemblyReference.cache
+C:\Users\AORUS\Desktop\复习\Net.Event\obj\Debug\netcoreapp3.0\Net.Event.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\复习\Net.Event\obj\Debug\netcoreapp3.0\Net.Event.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\复习\Net.Event\obj\Debug\netcoreapp3.0\Net.Event.dll
+C:\Users\AORUS\Desktop\复习\Net.Event\obj\Debug\netcoreapp3.0\Net.Event.pdb

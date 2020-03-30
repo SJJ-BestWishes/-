@@ -1,0 +1,11 @@
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\bin\Debug\netcoreapp3.0\Search.exe
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\bin\Debug\netcoreapp3.0\Search.deps.json
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\bin\Debug\netcoreapp3.0\Search.runtimeconfig.json
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\bin\Debug\netcoreapp3.0\Search.runtimeconfig.dev.json
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\bin\Debug\netcoreapp3.0\Search.dll
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\bin\Debug\netcoreapp3.0\Search.pdb
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\obj\Debug\netcoreapp3.0\Search.csprojAssemblyReference.cache
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\obj\Debug\netcoreapp3.0\Search.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\obj\Debug\netcoreapp3.0\Search.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\obj\Debug\netcoreapp3.0\Search.dll
+C:\Users\AORUS\Desktop\C#复习.控制台\算法\Search\obj\Debug\netcoreapp3.0\Search.pdb

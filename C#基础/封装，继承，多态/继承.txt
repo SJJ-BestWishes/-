@@ -1,0 +1,12 @@
+    class A
+    {
+        public A(float a)
+        {            
+        }
+    }
+    class B:A
+    {
+        public B(float b) : base(b)
+        { 
+        }
+    }
