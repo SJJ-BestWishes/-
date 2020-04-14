@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "CompositeMode2/1.0.0": {
+        "runtime": {
+          "CompositeMode2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompositeMode2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
